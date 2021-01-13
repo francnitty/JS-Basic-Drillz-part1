@@ -46,9 +46,9 @@ test("return the first 3 characters of `input`", () => {
 test("return the last 3 characters of `input`", () => {
     // Given
     let strangerStrings = new StrangerStrings();
-    let input = 'Wutang';
+    let input = 'WutangForever';
 
-    let expected = "ang";
+    let expected = "ver";
 
 
     // When
